@@ -1,0 +1,17 @@
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\bin\Debug\net10.0-windows\Gym.exe
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\bin\Debug\net10.0-windows\Gym.deps.json
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\bin\Debug\net10.0-windows\Gym.runtimeconfig.json
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\bin\Debug\net10.0-windows\Gym.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\bin\Debug\net10.0-windows\Gym.pdb
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.Form1.resources
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.csproj.GenerateResource.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.AssemblyInfoInputs.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.AssemblyInfo.cs
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\refint\Gym.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.pdb
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.genruntimeconfig.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\ref\Gym.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Gym\Gym\obj\Debug\net10.0-windows\Gym.csproj.Up2Date

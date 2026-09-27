@@ -1,0 +1,17 @@
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.exe
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.deps.json
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.runtimeconfig.json
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\bin\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.Form1.resources
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.GenerateResource.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfoInputs.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.AssemblyInfo.cs
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\refint\CafeStatusDemo.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.pdb
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStatusDemo.genruntimeconfig.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\ref\CafeStatusDemo.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\CafeStatusDemo\CafeStatusDemo\obj\Debug\net10.0-windows\CafeStat.05D0083D.Up2Date

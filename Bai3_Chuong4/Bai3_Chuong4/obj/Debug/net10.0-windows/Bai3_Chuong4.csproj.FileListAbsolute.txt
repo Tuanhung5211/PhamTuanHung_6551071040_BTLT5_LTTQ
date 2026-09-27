@@ -1,0 +1,17 @@
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\bin\Debug\net10.0-windows\Bai3_Chuong4.exe
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\bin\Debug\net10.0-windows\Bai3_Chuong4.deps.json
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\bin\Debug\net10.0-windows\Bai3_Chuong4.runtimeconfig.json
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\bin\Debug\net10.0-windows\Bai3_Chuong4.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\bin\Debug\net10.0-windows\Bai3_Chuong4.pdb
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.Form1.resources
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.csproj.GenerateResource.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.AssemblyInfoInputs.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.AssemblyInfo.cs
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.csproj.CoreCompileInputs.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\refint\Bai3_Chuong4.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.pdb
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chuong4.genruntimeconfig.cache
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\ref\Bai3_Chuong4.dll
+D:\Download\Lập trình trực quan\BTLT 4 & 5\Bai3_Chuong4\Bai3_Chuong4\obj\Debug\net10.0-windows\Bai3_Chu.24AA9E02.Up2Date
